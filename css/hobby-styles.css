@@ -33,20 +33,3 @@ a:hover {
     font-size: .75rem;
     padding: 10px 0;
 }
-
-.btn {
-    background: #66BFBF;
-    background-image: linear-gradient(to bottom, #66BFBF, #11999E);
-    border-radius: 8px;
-    font-family: 'Texturina', serif;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-}
-  
-.btn:hover {
-    background: #30e3cb;
-    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
-    text-decoration: none;
-}
